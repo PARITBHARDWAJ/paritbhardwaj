@@ -1,6 +1,6 @@
 ### HI THERE  👋
-### My Name is Parit Bhardwaj . I am a student . I am currently working on two Programming languages Python and bash . I am also learning Ethical Hacking or Cybersecurity.
- 
+### M
+
 
 <!--
 **PARITBHARDWAJ/paritbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
