@@ -1,5 +1,8 @@
 ### HI THERE  👋
-
+MY SELF PARIT BHARDWAJ.
+I AM A STUDENT.
+I AM CURRENTLY WORKING ON TWO LANGUAGES PYTHON AND BASH
+FOLLOW ME ON INSTAGRAM @IAMPARITBHARDWAJ
 
 
 <!--
@@ -18,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=paritbhardwaj">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paritbhardwaj&langs_count=8">
+
