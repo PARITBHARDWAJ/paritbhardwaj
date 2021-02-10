@@ -1,4 +1,6 @@
 ### HI THERE  👋
+### My Name is Parit Bhardwaj . I am a student . I am currently working on two Programming languages Python and bash . I am also learning Ethical Hacking or Cybersecurity.
+ 
 
 <!--
 **PARITBHARDWAJ/paritbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=paritbhardwaj">
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
